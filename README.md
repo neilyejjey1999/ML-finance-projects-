@@ -127,6 +127,7 @@ Macro regime features (interest rates, volatility indices, inflation)
 
 Disclaimer
 This project is a research prototype and not an investment strategy. Results are for exploratory and educational purposes only and should not be interpreted as financial advice.
+This project is personal work and not related to my employer.
 
 Summary
 This project demonstrates:
@@ -135,3 +136,4 @@ End-to-end machine learning pipeline design
 Time-aware modeling on financial data
 Robust feature engineering using cross-sectional normalization
 Translation of predictions into actionable portfolio strategies
+
